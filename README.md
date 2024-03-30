@@ -1,8 +1,14 @@
-# React + Vite
+# reactjobs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a frontend project course that incorporates CRUD
 
-Currently, two official plugins are available:
+We are using a  local server for the project .
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To get the project, simpy clone  it to your local machine and run npm install.
+
+You will also need to run your local server by running : npm run server
+
+The project is hosted on :
+
+https://reactjobs-today.netlify.app
+
